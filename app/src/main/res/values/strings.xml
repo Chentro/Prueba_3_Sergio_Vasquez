@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba_3</string>
+    <string name="radio1">Nulo</string>
+    <string name="radio2">Gabriel Boric</string>
+    <string name="radio3">Jose Antonio Kast</string>
+    <string name="voto">Voto Online</string>
+    <string name="accion">Votar</string>
+    <string name="resultado">Ver Resultados</string>
+    <string name="Volver">Volver</string>
+    <string name="Blanco">Blanco</string>
+    <string name="Numero">0</string>
+</resources>
