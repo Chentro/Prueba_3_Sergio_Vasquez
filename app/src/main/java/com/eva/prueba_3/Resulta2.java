@@ -48,10 +48,6 @@ public class Resulta2 extends AppCompatActivity {
                     int voto_boric = C.getInt(3);
                     int voto_kast = C.getInt(4);
 
-                    a=0;
-                    b=0;
-                    c=0;
-                    d=0;
 
                     if (voto_blaco==1){
                         a=a+1;
@@ -72,10 +68,10 @@ public class Resulta2 extends AppCompatActivity {
             }
         }
 
-        txt1.setText(a+"");
-        txt2.setText(b+"");
-        txt3.setText(c+"");
-        txt4.setText(d+"");
+        txt1.setText(b+"");
+        txt2.setText(c+"");
+        txt3.setText(d+"");
+        txt4.setText(a+"");
 
     }
 }
